@@ -1,1 +1,1 @@
-[1]: http://slashdot.org
+[text](https://github.com)
